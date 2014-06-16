@@ -5,3 +5,10 @@ packages:
     description: browser
     source: hosted
     version: "0.10.0+2"
+  engine:
+    description:
+      ref: null
+      resolved-ref: "31f07fd5be2a3829730aabdffa877a857391e8ed"
+      url: "https://github.com/morendi/engine.git"
+    source: git
+    version: "0.0.0"

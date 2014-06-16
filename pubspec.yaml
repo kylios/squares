@@ -2,3 +2,7 @@ name: squares
 description: A sample web application
 dependencies:
   browser: any
+  engine:
+    git:
+      ref:
+      url: 'https://github.com/morendi/engine.git'

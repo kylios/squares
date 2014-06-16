@@ -1,11 +1,8 @@
 import 'dart:html';
 import 'dart:math';
 
-import 'package:squares/actor.dart';
-import 'package:squares/scene.dart';
-import 'package:squares/component.dart';
-import 'package:squares/direction.dart';
-
+import 'package:engine/engine.dart';
+import 'package:squares/squares.dart';
 
 
 
